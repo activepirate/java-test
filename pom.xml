@@ -18,4 +18,8 @@
             <scope>test</scope>
         </dependency>
     </dependencies>
+
+    <build>
+        <finalName>java-test</finalName>
+    </build>
 </project>
