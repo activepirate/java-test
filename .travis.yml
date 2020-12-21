@@ -9,7 +9,7 @@ addons:
   sonarcloud:
     organization: "activepirate"
     token:
-      secure: "**************************" # encrypted value of your token
+      secure: "92e8e42e7ad1e507e74a656f89f4ba35965475e0" # encrypted value of your token
 
 script:
   # the following command line builds the project, runs the tests with coverage and then execute the SonarCloud analysis
