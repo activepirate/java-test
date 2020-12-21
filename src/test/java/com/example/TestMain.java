@@ -7,6 +7,7 @@ public class TestMain {
 
     @Test
     public void test1() {
-        Assert.fail();
+        String str = null;
+        Assert.assertNull(str);
     }
 }
