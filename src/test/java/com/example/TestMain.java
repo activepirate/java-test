@@ -8,6 +8,7 @@ public class TestMain {
     @Test
     public void test1() {
         String str = null;
+
         Assert.assertNull(str);
     }
 }
